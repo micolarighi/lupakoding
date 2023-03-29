@@ -1,0 +1,17 @@
+.patternContainer {
+    background-color: #1e293b;
+    background-image:  linear-gradient(#374151 1px, transparent 1px), linear-gradient(to right, #374151 1px, #131b27 1px);
+    background-size: 48px 48px;
+}
+/* .patternContainer1 {
+    background-color: #1e293b;
+    background-image:  linear-gradient(#374151 1px, transparent 1px), linear-gradient(to right, #374151 1px, #131b27 1px);
+    background-size: 48px 48px;
+}
+
+.patternContainer2 {
+    background-color: #1e293b;
+    background-image:  radial-gradient(#374151 1.2000000000000002px, transparent 1.2000000000000002px), radial-gradient(#374151 1.2000000000000002px, #131b27 1.2000000000000002px);
+    background-size: 48px 48px;
+    background-position: 0 0,24px 24px;
+} */ 
