@@ -4,6 +4,7 @@ import Feature1 from './IndexFeature/Feature1'
 import Feature2 from './IndexFeature/Feature2'
 import Feature3 from './IndexFeature/Feature3'
 import Feature4 from './IndexFeature/Feature4'
+import Option from './Option'
 import styles from './IndexBody.module.css'
 import {Link} from 'react-router-dom'
 import Footer from './Footer';
@@ -53,6 +54,9 @@ export default function IndexBody () {
                     </div>
                 </div>
             </div>
+
+            {/* Option Section */}
+            <Option/>
 
             <div className={styles.patternContainer}>
                 {/* cari kode yang terlupakan */}
