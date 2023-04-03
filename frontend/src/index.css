@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'brandFont';
-  src : local(brandFont), url('./brand-font.ttf')
+  src: local(brandFont), url('./brand-font.ttf')
 }
 
 :root {
@@ -24,3 +24,10 @@
   font-family: brandFont;
 }
 
+.ql-syntax {
+  background-color: #1f2937;
+  padding: 10px !important;
+  border-radius: 10px;
+  max-width: 80vw;
+  overflow-x: scroll;
+}
